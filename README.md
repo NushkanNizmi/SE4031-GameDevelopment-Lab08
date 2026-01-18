@@ -125,8 +125,8 @@ public class ObjectiveManager : MonoBehaviour
     }
 }
 ```
-Attach to ObjectiveManager object
-Drag TXT_Objective into objectiveText
+Attach to `ObjectiveManager` object
+Drag `TXT_Objective` into `objectiveText`
 
 ---
 
@@ -150,7 +150,7 @@ if (ObjectiveManager.Instance) ObjectiveManager.Instance.UpdateObjective();
 
 ## E) TimerManager.cs
 
-Create empty object TimerManager. Script:
+Create empty object `TimerManager.Script`:
 
 ```csharp
 using TMPro;
@@ -173,8 +173,8 @@ public class TimerManager : MonoBehaviour
         int s = Mathf.FloorToInt(t % 60);
         timerTex
 ```
-Attach to TimerManager
-Drag TXT_Timer into timerText
+Attach to `TimerManager`
+Drag `TXT_Timer` into `timerText`
 
 ---
 
@@ -206,7 +206,7 @@ public class CompletionController : MonoBehaviour
 }
 ```
 
-Assign CompletionLight into completionLight
+Assign `CompletionLigh` into `completionLight`
 
 
 ---
