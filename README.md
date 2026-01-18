@@ -53,7 +53,7 @@ HUD_Canvas: add TMP texts:
 
 ## B) ObjectiveManager.cs
 
-Create empty object: ObjectiveManager  
+Create empty object: `ObjectiveManager`  
 
 Create script:
 
