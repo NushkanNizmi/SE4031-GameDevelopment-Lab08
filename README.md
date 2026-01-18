@@ -4,7 +4,32 @@ Includes scripts + where to attach
 
 ---
 
-## Goal
+---
+
+## Objective
+
+Implement a complete objective-driven gameplay flow in VR by integrating multiple systems including collectables, targets, lore interaction, a countdown timer, and visual completion feedback.
+
+This lab brings together all previous mechanics (HUD, GameManager, targets, and lore objects) into a single structured task sequence and introduces real-time progress tracking and level completion indication.
+
+---
+
+## Learning Outcomes
+
+By the end of this lab, students will be able to:
+
+- Design and implement multi-step gameplay objectives  
+- Track player progress using a centralized Objective Manager  
+- Integrate multiple gameplay systems into a single objective flow  
+- Display real-time objectives on a VR HUD  
+- Implement a countdown timer using Unity scripting  
+- Trigger visual feedback upon task completion  
+- Use singleton managers to coordinate game state  
+- Extend and reuse systems built in previous labs (Lab 05–07)  
+- Build structured VR gameplay logic instead of isolated interactions  
+
+---
+
 
 Objective flow:
 
